@@ -1,4 +1,4 @@
-secsgem
+secsgem-driver
 pydantic
 python-dotenv
 Pillow
@@ -11,3 +11,4 @@ ruff
 mypy
 tkinter
 customtkinter  # optional modern theme
+pillow
