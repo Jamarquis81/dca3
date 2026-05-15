@@ -1,0 +1,13 @@
+secsgem
+pydantic
+python-dotenv
+Pillow
+structlog
+rich
+pyserial
+pytest
+black
+ruff
+mypy
+tkinter
+customtkinter  # optional modern theme
